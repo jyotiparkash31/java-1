@@ -10,7 +10,7 @@ public class Arragearray {
     	int[] arr = {-3,4,-4,7,-1,3,};
 		int temp;
 		int j=0;
-		System.out.println("original array:- "+Arrays.toString(arr));
+		System.out.println("original array is :- "+Arrays.toString(arr));
 		for(int i=0;i<=arr.length-1;i++)
 		{
 			if(arr[i]>0)
